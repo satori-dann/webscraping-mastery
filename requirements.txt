@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+pandas
+selenium
+fake-useragent
+#Add playwright, lxml, or requests-html as needed.
