@@ -1,91 +1,91 @@
 title,link,score
-"A Critical Look at ""A Critical Look at MCP.""",https://docs.mcp.run/blog/2025/05/16/mcp-implenda-est/,17 points
-JavaScript's New Superpower: Explicit Resource Management,https://v8.dev/features/explicit-resource-management,63 points
-Wow@Home – Network of Amateur Radio Telescopes,https://phl.upr.edu/wow/outreach,115 points
-Getting AI to write good SQL,https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql,332 points
-XTool – Cross-platform Xcode replacement,https://github.com/xtool-org/xtool,101 points
-A Linux kernel developer plays with Home Assistant: general impressions,https://lwn.net/SubscriberLink/1017720/7155ecb9602e9ef2/,86 points
-Catalog of Novel Operating Systems,https://github.com/prathyvsh/os-catalog,9 points
-Thoughts on thinking,https://dcurt.is/thinking,438 points
-"Show HN: Fahmatrix – A Lightweight, Pandas-Like DataFrame Library for Java",https://github.com/moustafa-nasr/fahmatrix,24 points
-A Research Preview of Codex,https://openai.com/index/introducing-codex/,429 points
-New high-quality hash measures 71GB/s on M4,https://github.com/Nicoshev/rapidhash,62 points
-MIT asks arXiv to withdraw preprint of paper on AI and scientific discovery,https://economics.mit.edu/news/assuring-accurate-research-record,305 points
-Rustls Server-Side Performance,https://www.memorysafety.org/blog/rustls-server-perf/,108 points
-Show HN: Merliot – plugging physical devices into LLMs,https://github.com/merliot/hub,45 points
-Hunting extreme microbes that redefine the limits of life,https://www.nature.com/articles/d41586-025-01464-7,17 points
-MCP: An in-depth introduction,https://www.speakeasy.com/mcp/mcp-tutorial,75 points
-Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon,https://github.com/dipampaul17/KVSplit,244 points
-"I'm Peter Roberts, immigration attorney, who does work for YC and startups. AMA",item?id=44006381,212 points
-Coding agent in 94 lines of Ruby,https://radanskoric.com/articles/coding-agent-in-ruby,106 points
-ClojureScript 1.12.42,https://clojurescript.org/news/2025-05-16-release,153 points
-"Show HN: Visual flow-based programming for Erlang, inspired by Node-RED",https://github.com/gorenje/erlang-red,222 points
-X X^t can be faster,https://arxiv.org/abs/2505.09814,176 points
-Popcorn: Run Elixir in WASM,https://popcorn.swmansion.com/,8 points
-Fixrleak: Fixing Java Resource Leaks with GenAI,https://www.uber.com/blog/fixrleak-fixing-java-resource-leaks-with-genai/,4 points
-A Linux kernel developer plays with Home Assistant: case studies,https://lwn.net/SubscriberLink/1017945/93d12d28178b372e/,50 points
-Publisher: The Malloy Semantic Model Server,https://github.com/malloydata/publisher,4 points
-The first year of free-threaded Python,https://labs.quansight.org/blog/free-threaded-one-year-recap,266 points
-WebGL Gray-Scott Explorer (2012),http://www.mrob.com/pub/comp/xmorphia/ogl/index.html,25 points
-The Joys of Discovering the Roman Underground,https://www.smithsonianmag.com/travel/the-joys-of-discovering-the-roman-underground-from-the-colosseum-to-whats-beneath-the-trevi-foundation-180986626/,19 points
-Japan's IC cards are weird and wonderful,https://aruarian.dance/blog/japan-ic-cards/,60 points
-Japan's IC cards are weird and wonderful,https://aruarian.dance/blog/japan-ic-cards/,60 points
-Identifying almost any x86 CPU (2004),http://web.archive.org/web/20040604002243/http://debs.future.easyspace.com/Programming/OS/cpuid.txt,6 points
-Behind Silicon Valley and the GOP’s campaign to ban state AI laws,https://www.bloodinthemachine.com/p/de-democratizing-ai,84 points
-The Magic Hours: The Films and Hidden Life of Terrence Malick,https://www.lrb.co.uk/the-paper/v47/n09/david-thomson/cool-tricking,65 points
-Foundry (YC F24) Is Hiring – Founding Engineer (ML × SWE),https://www.ycombinator.com/companies/foundry/jobs/uwi8b6I-founding-engineer-ml-x-swe,0 points
-GlobalWafers to invest 4B dollars in wafer manufacturing in the USA,https://www.tomshardware.com/tech-industry/semiconductors/globalwafers-to-invest-usd4-billion-into-u-s-chip-manufacturing-after-opening-texas-plant,3 points
-What were the MS-DOS programs that the moricons.dll icons were intended for?,https://devblogs.microsoft.com/oldnewthing/20250507-00/?p=111157,292 points
-Returning to My Roots in Hardware,https://dancrimp.nz/2025/03/31/hardware/,79 points
-"Show HN: Solidis – Tiny TS Redis client, no deps, for serverless",https://github.com/vcms-io/solidis,47 points
-Will AI systems perform poorly due to AI-generated material in training data?,https://cacm.acm.org/news/the-collapse-of-gpt/,95 points
-"They Were Identical 'Twinnies' Who Charmed Orwell, Camus and More",https://www.nytimes.com/2025/05/04/books/review/the-dazzling-paget-sisters-ariane-bankes.html,23 points
-Baby is healed with first personalized gene-editing treatment,https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html,1169 points
-Spatial Speech Translation: Translating Across Space with Binaural Hearables,https://babelfish.cs.washington.edu/,4 points
-Evolution of Rust Compiler Errors,https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html,142 points
-New 'Superdiffusion' Proof Probes the Mysterious Math of Turbulence,https://www.quantamagazine.org/new-superdiffusion-proof-probes-the-mysterious-math-of-turbulence-20250516/,43 points
-Transformer: The Deep Chemistry of Life and Death,https://nick-lane.net/books/transformer-the-deep-chemistry-of-life-and-death/,56 points
-Náhuatl and Mayan Language Renaissance Occurring in Mexico,https://yucatanmagazine.com/mayan-language-renaissance/,148 points
-Show HN: SQL-tString a t-string SQL builder in Python,https://github.com/pgjones/sql-tstring,77 points
-Methodical Banality,https://aeon.co/essays/who-needs-ai-text-generation-when-theres-erasmus-of-rotterdam,37 points
-Tower Defense: Cache Control,https://www.jasonthorsness.com/26,59 points
-"Show HN: Workflow Use – Deterministic, self-healing browser automation (RPA 2.0)",https://github.com/browser-use/workflow-use,61 points
-Launch HN: Tinfoil (YC X25): Verifiable Privacy for Cloud AI,item?id=43996555,140 points
-"Show HN: Rv, a Package Manager for R",https://github.com/A2-ai/rv,68 points
-British naval dominance during the age of sail,https://www.lesswrong.com/posts/YE4XsvSFJiZkWFtFE/explaining-british-naval-dominance-during-the-age-of-sail,99 points
-Windsurf SWE-1: Our First Frontier Models,https://windsurf.com/blog/windsurf-wave-9-swe-1,174 points
-"Pallene: A statically typed ahead-of-time compiled sister language to Lua, with",https://github.com/pallene-lang/pallene,9 points
-Lawful kinematics link eye movements to the limits of high-speed perception,https://www.nature.com/articles/s41467-025-58659-9,26 points
-"LPython: Novel, Fast, Retargetable Python Compiler (2023)",https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/,50 points
-Material 3 Expressive,https://design.google/library/expressive-material-design-google-research,339 points
-Teal – A statically-typed dialect of Lua,https://teal-language.org/,220 points
-Taking a look at the next generation of telescopes,https://arstechnica.com/space/2025/05/tuesday-telescope-taking-a-look-at-the-next-generation-of-telescopes/,25 points
-Sci-Net,https://sci-hub.se/sci-net,261 points
-Ground control to Major Trial,https://virtualize.sh/blog/ground-control-to-major-trial/,483 points
-Beyond Text: On-Demand UI Generation for Better Conversational Experiences,https://blog.fka.dev/blog/2025-05-16-beyond-text-only-ai-on-demand-ui-generation-for-better-conversational-experiences/,73 points
-Internet Search Is Not a Naive Information Retrieval Problem,https://www.gojiberries.io/internet-search-is-not-a-naive-information-retrieval-problem/,3 points
-Ask HN: Anyone working in traditional ML/stats research instead of LLMs?,item?id=44011645,11 points
-Cracked – Method chaining/CSS-style selector web audio library,https://github.com/billorcutt/i_dropped_my_phone_the_screen_cracked,89 points
-Lock-Free Rust: How to Build a Rollercoaster While It's on Fire,https://yeet.cx/blog/lock-free-rust/,125 points
-Moody’s strips U.S. of triple-A credit rating,https://www.ft.com/content/e456ea34-c6ad-43fe-abe9-d4ce781c07b4,244 points
-Tek – A music making program for 24-bit Unicode terminals,https://codeberg.org/unspeaker/tek,165 points
-Zinc Microcapacitors Are the Best of Both Worlds,https://spectrum.ieee.org/zinc-microcapacitor,68 points
-Stax Museum Bob Abrahamian Collection,https://bobacollection.staxmuseum.org/,31 points
-A leap year check in three instructions,https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html,413 points
-Vibe-coded a professional C99 compiler with a broken hand (then threw it away),https://old.reddit.com/r/rust/comments/1kol4z1/vibecoded_a_professional_c99_compiler_with_a/,14 points
-Working on complex systems: What I learned working at Google,https://www.thecoder.cafe/p/complex-systems,284 points
-The first year of free-threaded Python,https://labs.quansight.org/blog/free-threaded-one-year-recap,14 points
-Ollama's new engine for multimodal models,https://ollama.com/blog/multimodal-models,344 points
-GTK Krell Monitors,https://gkrellm.srcbox.net/,87 points
-GitHub Models API now available,https://github.blog/changelog/2025-05-15-github-models-api-now-available/,11 points
-The current state of TLA⁺ development,https://ahelwer.ca/post/2025-05-15-tla-dev-status/,136 points
-“The Mind in the Wheel” lays out a new foundation for the science of mind,https://www.experimental-history.com/p/new-paradigm-for-psychology-just,119 points
-Comma 3X: Initial Impressions,https://beesbuzz.biz/blog/14719-Comma-3X-Initial-impressions,74 points
-"In the US, a rotating detonation rocket engine takes flight",https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/,109 points
-"Show HN: Self-Funded Game with Homemade Engine – Play Online, Steam Coming",https://bereprobate.com,15 points
-"Coinbase says hackers bribed staff to steal customer data, demanding $20M ransom",https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html,402 points
-The fastest Postgres inserts,https://docs.hatchet.run/blog/fastest-postgres-inserts,50 points
-I let lasers power my smart home – and I don't want to go back,https://www.theverge.com/tech/663899/wi-charge-alfred-smart-lock-wireless-power-review,5 points
-The Awful German Language (1880),https://faculty.georgetown.edu/jod/texts/twain.german.html,189 points
-Dr. Dobb's Journal interviews Jef Raskin (1986),https://computeradsfromthepast.substack.com/p/dr-dobbs-journal-interviews-jef-raskin,88 points
-The unreasonable effectiveness of an LLM agent loop with tool use,https://sketch.dev/blog/agent-loop,423 points
+Have I Been Pwned 2.0 is Now Live,https://www.troyhunt.com/have-i-been-pwned-2-0-is-now-live/,96 points
+The Windows Subsystem for Linux is now open source,https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/,950 points
+Jules: An Asynchronous Coding Agent,https://jules.google/,106 points
+Zod 4,https://zod.dev/v4,524 points
+GitHub Copilot Coding Agent,https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/,256 points
+Claude Code SDK,https://docs.anthropic.com/en/docs/claude-code/sdk,195 points
+Launch HN: Better Auth (YC X25) – Authentication Framework for TypeScript,item?id=44030492,155 points
+The forbidden railway: Vienna-Pyongyang (2008),http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html,83 points
+Run your GitHub Actions locally,https://github.com/nektos/act,120 points
+Game theory illustrated by an animated cartoon game,https://ncase.me/trust/,148 points
+Too Much Go Misdirection,https://flak.tedunangst.com/post/too-much-go-misdirection,133 points
+Dominion Energy's NEM 2.0 Proposal: What It Means for Solar in Virginia,https://www.virtuesolar.com/2025/05/16/dominion-nem-2/,37 points
+Remarks on AI from NZ,https://nealstephenson.substack.com/p/remarks-on-ai-from-nz,96 points
+Don't Use ISO/IEC 14977:1996 Extended Backus-Naur Form (EBNF) (2023),https://dwheeler.com/essays/dont-use-iso-14977-ebnf.html,8 points
+ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support,https://github.com/clawsoftware/clawPDF,160 points
+WireGuard-vanity-keygen: WireGuard vanity key generator,https://github.com/axllent/wireguard-vanity-keygen,24 points
+European Investment Bank to inject €70B in European tech,https://ioplus.nl/en/posts/european-investment-bank-to-inject-70-billion-in-european-tech,248 points
+Glasskube (YC S24) is hiring in Vienna to build Open Source deployment tools,https://www.ycombinator.com/companies/glasskube/jobs/wjB77iZ-founding-engineer-go-typescript-kubernetes-docker,0 points
+Show HN: Windows 98 themed website in 1 HTML file for my post punk band,https://corp.band,141 points
+Show HN: A MCP server to evaluate Python code in WASM VM using RustPython,https://github.com/tuananh/hyper-mcp/tree/main/examples/plugins/eval-py,10 points
+Microsoft's ICC blockade: digital dependence comes at a cost,https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/,189 points
+Rivers,https://www.futilitycloset.com/2025/05/15/rivers/,45 points
+The truth behind the accuracy of weather forecasts,https://www.abc.net.au/news/2025-05-16/weather-forecast-accuracy-bom/105297540,5 points
+Dilbert creator Scott Adams says he will die soon from same cancer as Joe Biden,https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/,182 points
+Side projects I've built since 2009,https://naeemnur.com/side-projects/,230 points
+Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy,https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy,113 points
+Show HN: A native Hacker News reader with integrated todo/done tracking,https://github.com/haojiang99/hacker_news_reader,16 points
+Diffusion Models Explained Simply,https://www.seangoedecke.com/diffusion-models-explained/,108 points
+FCC Chair Brendan Carr is letting ISPs merge–as long as they end DEI programs,https://arstechnica.com/tech-policy/2025/05/fcc-chair-brendan-carr-is-letting-isps-merge-as-long-as-they-end-dei-programs/,71 points
+Wikipedia's Most Translated Articles,https://sohom.dev/most-translated-articles-on-wikipedia/pretty.html,84 points
+Edit is now open source,https://devblogs.microsoft.com/commandline/edit-is-now-open-source/,173 points
+23andMe Sells Gene-Testing Business to DNA Drug Maker Regeneron,https://www.bloomberg.com/news/articles/2025-05-19/23andme-sells-gene-testing-business-to-dna-drug-maker-regeneron,184 points
+Debian Trixie is hard frozen,https://lists.debian.org/debian-devel-announce/2025/05/msg00004.html,28 points
+Go Cryptography Security Audit,https://go.dev/blog/tob-crypto-audit,20 points
+Visualizing 100k Years of Earth in WebGL,https://technistuff.com/posts/visualizing-100000-years-of-earth-in-webgl/,51 points
+"In Memoriam: John L. Young, Cryptome Co-Founder",https://www.eff.org/deeplinks/2025/05/memoriam-john-l-young-cryptome-co-founder,238 points
+Kelp – simple replacement for homebrew on macOS,https://github.com/crhuber/kelp,71 points
+"About Asteroids, Atari's biggest arcade hit",https://www.goto10retro.com/p/about-asteroids-ataris-biggest-arcade,48 points
+InventWood is about to mass-produce wood that's stronger than steel,https://techcrunch.com/2025/05/12/inventwood-is-about-to-mass-produce-wood-thats-stronger-than-steel/,427 points
+The Cost of Our Lies to AI,https://www.lesswrong.com/posts/9PiyWjoe9tajReF7v/the-hidden-cost-of-our-lies-to-ai,9 points
+xAI's Grok 3 comes to Microsoft Azure,https://techcrunch.com/2025/05/19/xais-grok-3-comes-to-microsoft-azure/,73 points
+ChatGPT shown to be more persuasive than people in online debates,https://phys.org/news/2025-05-chatgpt-shown-persuasive-people-online.html,7 points
+Llama from scratch (2023),https://blog.briankitano.com/llama-from-scratch/,143 points
+Show HN: Cogitator – A Python Toolkit for Chain-of-Thought Prompting,https://github.com/habedi/cogitator,46 points
+"Show HN: Goboscript, text-based programming language, compiles to Scratch",https://github.com/aspizu/goboscript,149 points
+Emulator Debugging: Area 5150's Lake Effect,https://martypc.blogspot.com/2025/05/emulator-debugging-area-5150s-lake.html,59 points
+KDE is finally getting a native virtual machine manager called “Karton”,https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/,172 points
+"The principles of database design, or, the Truth is out there",https://ebellani.github.io/blog/2025/the-principles-of-database-design-or-the-truth-is-out-there/,109 points
+Don't guess my language,https://vitonsky.net/blog/2025/05/17/language-detection/,594 points
+SDB Scans the Ruby Stack Without the GVL,https://github.com/yfractal/blog/blob/master/blog/2025-01-15-non-blocking-stack-profiler.md,28 points
+Programming in Martin-Lof's Type Theory: An Introduction (1990),https://www.cse.chalmers.se/research/group/logic/book/,53 points
+"Fabric Is Just Plain Unreliable, and Microsoft's Hiding It",https://www.brentozar.com/archive/2025/05/fabric-is-just-plain-unreliable-and-microsofts-hiding-it/,95 points
+Microcontrollers with Gleam [video],https://www.youtube.com/watch?v=-jd1lRQ4LZg,6 points
+CERN gears up to ship antimatter across Europe,https://arstechnica.com/science/2025/05/cern-gears-up-to-ship-antimatter-across-europe/,15 points
+Show HN: A highly extensible framework for building OCR systems,https://github.com/robbyzhaox/myocr,10 points
+Spaced repetition systems have gotten better,https://domenic.me/fsrs/,954 points
+Mystical,https://suberic.net/~dmm/projects/mystical/README.html,422 points
+"K-Scale Labs: Open-source humanoid robots, built for developers",https://www.kscale.dev/,133 points
+Malware Attack and Counterattack,https://www.antoineschmitt.com/malware-attack-and-counterattack/,13 points
+Defensive CSS,https://defensivecss.dev/,13 points
+Microsoft Open Sources Copilot,https://code.visualstudio.com/blogs/2025/05/19/openSourceAIEditor,90 points
+Show HN: Job board aggregator for best paying remote SWE jobs in the U.S.,https://www.remoteswe.fyi,173 points
+"Show HN: Mirror World, create an AI clone of anyone",https://mirr.world/,18 points
+Klarna's AI replaced 700 workers. Now the CEO wants humans back after $40B fall,https://www.livemint.com/companies/news/klarnas-ai-replaced-700-workers-now-the-fintech-ceo-wants-humans-back-after-40b-fall-11747573937564.html,5 points
+“There are people who can see and others who cannot even look”,https://worldhistory.substack.com/p/there-are-people-who-can-see-and,248 points
+The Ignorability of Attributes in C++,https://brevzin.github.io/c++/2025/03/25/attributes/,6 points
+Ditching Obsidian and building my own,https://amberwilliams.io/blogs/building-my-own-pkms,438 points
+Font Activations: A Note on the Type,https://robhorning.substack.com/p/font-activations,51 points
+"Berlin, Paris overcome rift over nuclear energy, French official says",https://www.reuters.com/business/energy/berlin-paris-overcome-rift-over-nuclear-energy-french-official-says-2025-05-19/,21 points
+Procolored printer drivers contained malware,https://www.neowin.net/news/this-printer-company-served-you-malware-for-months-and-dismissed-it-as-false-positives/,133 points
+Hyper Typing,https://pscanf.com/s/341/,97 points
+"New research reveals the strongest solar event ever detected, in 12350 BC",https://phys.org/news/2025-05-reveals-strongest-solar-event-bc.html,233 points
+The Fall of Roam (2022),https://every.to/superorganizers/the-fall-of-roam,126 points
+"Show HN: A platform to find tech conferences, discounts, and ticket giveaways",https://www.tech.tickets/,99 points
+Comparing Parallel Functional Array Languages: Programming and Performance,https://arxiv.org/abs/2505.08906,85 points
+Show HN: I Built a Prompt That Makes LLMs Think Like Heinlein's Fair Witness,https://fairwitness.bot/,7 points
+Why are (male) surgeons still addressed as Mr? (2000),https://pmc.ncbi.nlm.nih.gov/articles/PMC1119265/,22 points
+Show HN: Hardtime.nvim – break bad habits and master Vim motions,https://github.com/m4xshen/hardtime.nvim,199 points
+Show HN: I reinvented PHP in TypeScript (demo),https://github.com/vseplet/morph,24 points
+Spider Eye Development Editing and Silk Fiber Engineering Using CRISPR-Cas,https://onlinelibrary.wiley.com/doi/10.1002/anie.202502068,12 points
+Astroturfing,https://en.wikipedia.org/wiki/Astroturfing,6 points
+Discover is now part of Capital One,https://www.discover.com/faqs/merger/,99 points
+The Connoisseur of Desire,https://www.nybooks.com/articles/2025/05/29/the-connoisseur-of-desire-the-annotated-great-gatsby/,31 points
+Show HN: I modeled the Voynich Manuscript with SBERT to test for structure,https://github.com/brianmg/voynich-nlp-analysis,375 points
+"Show HN: Jar.tools – View, Change, Decompile Java Jar Files",https://jar.tools,6 points
+Show HN: Python Simulator of David Deutsch’s “Constructor Theory of Time”,https://github.com/gvelesandro/constructor-theory-simulator,80 points
+Show HN: Vaev – A browser engine built from scratch (It renders google.com),https://github.com/skift-org/vaev,220 points
+Show HN: Chat with 19 years of HN,https://app.camelai.com/log-in?next=/hn/,143 points
+Emergent social conventions and collective bias in LLM populations,https://www.science.org/doi/10.1126/sciadv.adu9368,69 points
+What does the end of mathematics look like?,https://www.awanderingmind.blog/posts/2025-05-18-what-does-the-end-of-mathematics-look-like.html,53 points
