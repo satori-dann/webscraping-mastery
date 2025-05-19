@@ -22,6 +22,5 @@ while True:
 
 # Export to CSV
 df = pd.DataFrame(all_quotes)
-df.to_csv("quotes_api_output.csv", index=False)
 df.to_csv("test_04_quotes_(api)\\output(api).csv", index=False)
 print(f"Scraped {len(df)} quotes. Saved to quotes_api_output.csv.")
