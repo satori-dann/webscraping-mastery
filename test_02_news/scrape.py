@@ -43,5 +43,5 @@ def scrape_posts(num_pages):
     
 scrape_posts(3)
 df = pd.DataFrame(posts)
-df.to_csv("day_02_news\\output.csv", index=False)
+df.to_csv("test_02_news\\output.csv", index=False)
 print("Done! Saved to output.csv")

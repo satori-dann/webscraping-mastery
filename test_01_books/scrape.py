@@ -44,5 +44,5 @@ def scrape_all_books():
 
 scrape_all_books()
 df = pd.DataFrame(books)
-df.to_csv("day_01_books\\output.csv", index=False)
+df.to_csv("test_01_books\\output.csv", index=False)
 print("Done! Saved to output.csv")

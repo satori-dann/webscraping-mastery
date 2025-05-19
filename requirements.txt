@@ -1,8 +1,10 @@
-requests
-beautifulsoup4
-pandas
-selenium
-fake-useragent
-lxml
-#Add playwright, or requests-html as needed.
+requests #used to make requests / get the page
+beautifulsoup4 #used to parse the page / read it nicely
+lxml #used alongside beautifulsoup4 to parse the page
+pandas #used to save the data
+selenium #used to render javascript
+playwright #playwright is a better alternative to selenium
+fake-useragent #used to get a random user agent
+
+#Add requests-html as needed.
 
